@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">activity-aliases</string>
+
+    <string name="compose_shortcut_short_label1">New</string>
+    <string name="compose_shortcut_long_label1">New Activity</string>
+    <string name="compose_disabled_message1">New Disabled</string>
 </resources>
