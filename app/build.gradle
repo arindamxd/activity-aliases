@@ -10,7 +10,7 @@ android {
     defaultConfig {
         applicationId "com.arindam.activity_aliases"
 
-        minSdkVersion 25
+        minSdkVersion 26
         targetSdkVersion 29
 
         versionCode 1
